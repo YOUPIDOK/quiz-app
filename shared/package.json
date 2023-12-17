@@ -1,0 +1,18 @@
+{
+  "engines": {
+    "node": ">=20.0"
+  },
+  "name": "shared",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "build": "tsc",
+    "watch": "nodemon --watch src --ext ts --exec 'npm run build'"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2"
+  }
+}

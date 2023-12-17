@@ -1,0 +1,1 @@
+export const SetUsernameEvent = 'player--set-username';
