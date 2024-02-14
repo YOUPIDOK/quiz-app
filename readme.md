@@ -8,6 +8,13 @@
 - [Shared](shared/readme.md)
 - [App](app/readme.md)
 
+## Start project step : 
+> Use node 20
+1) Copy and complete .env.example un server folder
+2) Launch this command and go to http://localhost:3001 : 
+```shell
+nvm use 20 && sh start.sh
+```
 
 ## Features
 ### Topic Selection

@@ -10,7 +10,7 @@ npm install
 ```
 **Run development**
 ```shell
-npm dev
+npm run dev
 ```
 **Run production**
 ```shell
